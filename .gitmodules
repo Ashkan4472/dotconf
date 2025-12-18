@@ -1,3 +1,6 @@
 [submodule "neovim"]
 	path = neovim
 	url = git@github.com:Ashkan4472/dotconf-neovim.git
+[submodule "alacritty"]
+	path = alacritty
+	url = git@github.com:Ashkan4472/dotconf-alacritty.git
